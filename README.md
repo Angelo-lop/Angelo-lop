@@ -13,12 +13,6 @@
   <img align="center" alt="Angelo-React" height="33" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="right" alt="Cafézinho" scr="https://cdn.discordapp.com/attachments/954411174173237250/954411444915560549/cafezinho.gif">
  </div>
-
-- 🔭 Estou atualmente trabalhando com freelancers e front-end. Me aventurando pelo mundo do desenvolvimento WEB.
-- 🌱 Aprendendo React e novas formas de contribuições para minha comunidade.
-- 🤔 Caçando oportunidades no mundo WEB!
-- 😄 Pronomes: Ele/Dele
-- ⚡ Um fato curioso é que adoro música, se você me ver sem fone pode ter certeza que é um clone mal programado!
   
   ##
   
