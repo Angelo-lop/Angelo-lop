@@ -19,4 +19,11 @@
 - 🌱 Atualmente estou aprendendo React e novas formas de contribuições para minha comunidade.
 - 🤔 No momento procurando ajudar em sistemas WEB.
 - 😄 Pronomes: Ele/Dele
-- ⚡ Um fato curioso é que adoro música, se você me ver sem fone, pode ter certeza que é um clone mal programado!
+- ⚡ Um fato curioso é que adoro música, se você me ver sem fone pode ter certeza que é um clone mal programado!
+  
+  ##
+  
+ <a href="https://www.instagram.com/tec.ang/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
