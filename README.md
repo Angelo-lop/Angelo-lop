@@ -1,5 +1,4 @@
 ### Olá, sou Angelo, desenvolvedor em todos os âmbitos da vida!
-
 <div align="center">
   <a href="https://github.com/angelolop">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=angelolop&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
